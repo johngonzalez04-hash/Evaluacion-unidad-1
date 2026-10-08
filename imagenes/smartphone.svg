@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <rect width="600" height="400" fill="#f0f4f8"/>
+  <rect x="215" y="30" width="170" height="340" rx="25" fill="#1c1c1e"/>
+  <linearGradient id="phone-screen" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#5e60ce"/>
+    <stop offset="100%" stop-color="#2a6f97"/>
+  </linearGradient>
+  <rect x="228" y="55" width="144" height="290" rx="10" fill="url(#phone-screen)"/>
+  <circle cx="300" cy="200" r="45" stroke="#e0e1dd" stroke-width="12" fill="none"/>
+  <circle cx="300" cy="200" r="25" fill="#2a6f97"/>
+</svg>
